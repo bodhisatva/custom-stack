@@ -1,5 +1,4 @@
 /* eslint-disable import/no-extraneous-dependencies */
-/* eslint-disable Unexpected block statement surrounding arrow body */
 
 import gulp from 'gulp';
 import babel from 'gulp-babel';
