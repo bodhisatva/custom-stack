@@ -4,5 +4,8 @@ module.exports = {
   ],
   plugins: [
     'import'
-  ]
+  ],
+  "env": {
+    "browser": true
+  }
 }
